@@ -1,16 +1,36 @@
-## Hi there 👋
+# せら
 
-<!--
-**s-creativeworks/s-creativeworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Webデザイナー / 個人開発
 
-Here are some ideas to get you started:
+AIを活用したWebサービスの企画・開発を行っています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 公開中のサービス
+
+### Oubo
+
+職務経歴書と求人票をもとに、応募優先度や改善点を提案する無料ツールです。
+
+🌐 https://oubo.vercel.app
+
+
+## ポートフォリオ
+
+🌐 https://violet964487.studio.site/2
+
+
+## 使用技術
+
+- Next.js
+- TypeScript
+- React
+- Tailwind CSS
+- HTML / CSS / JavaScript
+- Figma
+- Photoshop
+- Git / GitHub
+
+
+## SNS
+
+X: https://x.com/s_creativeworks
