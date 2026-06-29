@@ -21,14 +21,21 @@ AIを活用したWebサービスの企画・開発を行っています。
 
 ## 使用技術
 
+### Frontend
 - Next.js
-- TypeScript
 - React
+- TypeScript
 - Tailwind CSS
-- HTML / CSS / JavaScript
+
+### Design
 - Figma
 - Photoshop
+- Illustrator
+
+### Others
 - Git / GitHub
+- Vercel
+- Gemini API
 
 
 ## SNS
