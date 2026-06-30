@@ -7,7 +7,12 @@ AIを活用したWebサービスの企画・開発を行っています。
 
 ## 公開中のサービス
 
-### Oubo
+<h3>
+  <img src="docs/favicon.png" width="26" alt="Oubo" valign="middle">
+  Oubo
+</h3>
+  
+![Oubo](docs/top.png)
 
 職務経歴書と求人票をもとに、応募優先度や改善点を提案する無料ツールです。
 
